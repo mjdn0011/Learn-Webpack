@@ -1,2 +1,1 @@
-# Webpack-study
-Repo for Studying Webpack
+# Learn-Webpack
